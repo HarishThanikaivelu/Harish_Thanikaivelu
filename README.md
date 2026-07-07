@@ -16,12 +16,12 @@ Currently, as a Product Sustenance Engineer, I manage end-to-end global software
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [Automated Multi-Page E-Commerce Data Pipeline](link-to-your-project-repo-here)
+#### 1. [Automated Multi-Page E-Commerce Data Pipeline](https://github.com/HarishThanikaivelu/ecommerce-data-pipeline)
 * **Tech Stack:** Python, Selenium 4, Pandas
 * **Overview:** A production-grade web scraping pipeline that extracts structured product data across multiple pages. Demonstrates advanced headless browser configuration, automated pagination, and data transformation.
 * **Impact:** Eliminates manual data entry and transforms raw web DOM elements into a clean, analytical CSV dataset.
 
-#### 2. [Standalone Data Processing Engine](link-to-your-project-repo-here)
+#### 2. [Standalone Data Processing Engine](https://github.com/HarishThanikaivelu/Meta)
 * **Tech Stack:** Python, R, Material UI
 * **Overview:** Designed and deployed a standalone desktop application to interface with the QIIME 2 platform.
 * **Impact:** Enabled highly efficient, offline processing of microbiome data pipelines at the 19 MB scale.
